@@ -183,12 +183,20 @@ def calculate_points(all_data_compact_format: pd.DataFrame) -> pd.DataFrame:
     )
 
 
-def convert_points_to_outcome(points: pd.DataFrame) -> pd.DataFrame:
+def convert_points_to_outcome(points: pd.DataFrame, teams_out: List[str]) -> pd.DataFrame:
     outcome = copy.deepcopy(points)
     teams_count = points.shape[0]
     maximal_point_count = 3 * teams_count
     outcome['Percentage'] = 100 * outcome['Points'] / maximal_point_count
-    return outcome
+
+    # adding points for the teams that were not part of the analysis
+    teams_out_count = len(teams_out)
+    teams_out_points = 3 * teams_out_count
+    outcome['Points'] += (teams_out_points * outcome['Percentage']) / 100
+
+    outcome['Order'] = range(1, teams_count + 1)
+
+    return outcome[['Order', 'Team', 'Points', 'Percentage']]
 
 
 if __name__ == '__main__':
@@ -201,5 +209,5 @@ if __name__ == '__main__':
     all_data = train_data.append(predictions)
     all_data_compact_format = convert_to_compact_format(all_data)
     points = calculate_points(all_data_compact_format)
-    outcome = convert_points_to_outcome(points)
+    outcome = convert_points_to_outcome(points, teams_out)
     outcome.to_csv('outcome.csv', index=False)

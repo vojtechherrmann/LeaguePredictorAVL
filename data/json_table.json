@@ -1,0 +1,4103 @@
+{
+  "tbody": {
+    "tr": [
+      {
+        "th": [
+          {
+            "@id": "tablecorner"
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 49px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Amateri"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 69px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Angry Birds"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 109px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Anonymní tučňáci"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 80px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Banana Team"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 48px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Bukvice"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 99px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Dodame pozdeji"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 58px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Frizzante"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 60px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "chill crew"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 71px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Chulimanga"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 64px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Kladivouni"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 61px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Komiksáci"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 63px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Křivé ruce"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 35px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Kuráž"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 52px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Kuriatko"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 51px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Medvědi"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 44px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Nebreč"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 85px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Nelétaví ptáci"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 133px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Nepropadejte panice!"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 56px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Potenciál"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 95px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Přejetý Žabičky"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 84px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Přešlap rukou"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 54px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "S Peckou"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 96px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Skoro Matfyzáci"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 85px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Suicide Squad"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 39px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "SURUS"
+              }
+            }
+          },
+          {
+            "@class": "",
+            "div": {
+              "@style": "height: 62px; width: 14px;",
+              "div": {
+                "@class": "rotated",
+                "#text": "Tralalalala"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/amateri/",
+            "#text": "Amateri"
+          }
+        },
+        "td": [
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Amateri vs Anonymní tučňáci",
+                "br": "",
+                "#text": "25:22,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Amateri vs Chulimanga",
+                "br": "",
+                "#text": "25:19,18:25,15:13"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Amateri vs Kuráž",
+                "br": "",
+                "#text": "22:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Amateri vs Medvědi",
+                "br": "",
+                "#text": "9:25,21:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Amateri vs S Peckou",
+                "br": "",
+                "#text": "14:25,17:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Amateri vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "25:20,22:25,15:7"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/angry-birds/",
+            "#text": "Angry Birds"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Bukvice",
+                "br": "",
+                "#text": "23:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Dodame pozdeji",
+                "br": "",
+                "#text": "20:25,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Frizzante",
+                "br": "",
+                "#text": "25:12,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Chulimanga",
+                "br": "",
+                "#text": "14:25,16:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Komiksáci",
+                "br": "",
+                "#text": "25:22,19:25,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Kuráž",
+                "br": "",
+                "#text": "17:25,20:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Medvědi",
+                "br": "",
+                "#text": "23:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Nepropadejte panice!",
+                "br": "",
+                "#text": "13:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Potenciál",
+                "br": "",
+                "#text": "21:25,25:17,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Přešlap rukou",
+                "br": "",
+                "#text": "25:22,25:27,15:9"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs S Peckou",
+                "br": "",
+                "#text": "25:18,24:26,17:19"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Angry Birds vs Suicide Squad",
+                "br": "",
+                "#text": "22:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/anonymni-tucnaci/",
+            "#text": "Anonymní tučňáci"
+          }
+        },
+        "td": [
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Anonymní tučňáci vs Amateri",
+                "br": "",
+                "#text": "22:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Anonymní tučňáci vs Kladivouni",
+                "br": "",
+                "#text": "15:25,8:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Anonymní tučňáci vs Komiksáci",
+                "br": "",
+                "#text": "15:25,15:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Anonymní tučňáci vs Křivé ruce",
+                "br": "",
+                "#text": "11:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Anonymní tučňáci vs Nelétaví ptáci",
+                "br": "",
+                "#text": "15:25,20:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Anonymní tučňáci vs S Peckou",
+                "br": "",
+                "#text": "25:22,14:25,10:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Anonymní tučňáci vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "17:25,13:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/banana-team/",
+            "#text": "Banana Team"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Bukvice",
+                "br": "",
+                "#text": "21:25,23:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Frizzante",
+                "br": "",
+                "#text": "17:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Komiksáci",
+                "br": "",
+                "#text": "19:25,25:18,10:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Medvědi",
+                "br": "",
+                "#text": "21:25,15:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Nelétaví ptáci",
+                "br": "",
+                "#text": "15:25,10:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Nepropadejte panice!",
+                "br": "",
+                "#text": "25:21,17:25,15:10"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Potenciál",
+                "br": "",
+                "#text": "19:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Přejetý Žabičky",
+                "br": "",
+                "#text": "22:25,25:20,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs S Peckou",
+                "br": "",
+                "#text": "23:25,25:23,6:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "21:25,21:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Suicide Squad",
+                "br": "",
+                "#text": "19:25,15:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Banana Team vs Tralalalala",
+                "br": "",
+                "#text": "25:11,18:25,11:15"
+              },
+              "#text": "1:2"
+            }
+          }
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/bukvice/",
+            "#text": "Bukvice"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Angry Birds",
+                "br": "",
+                "#text": "25:23,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Banana Team",
+                "br": "",
+                "#text": "25:21,25:23"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Dodame pozdeji",
+                "br": "",
+                "#text": "13:25,25:23,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Frizzante",
+                "br": "",
+                "#text": "25:22,21:25,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs chill crew",
+                "br": "",
+                "#text": "25:14,25:13"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Chulimanga",
+                "br": "",
+                "#text": "27:25,28:26"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Kladivouni",
+                "br": "",
+                "#text": "23:25,25:22,15:12"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Komiksáci",
+                "br": "",
+                "#text": "12:25,25:20,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Kuráž",
+                "br": "",
+                "#text": "25:22,25:27,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Medvědi",
+                "br": "",
+                "#text": "21:25,9:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Nelétaví ptáci",
+                "br": "",
+                "#text": "12:25,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Nepropadejte panice!",
+                "br": "",
+                "#text": "17:25,25:22,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Potenciál",
+                "br": "",
+                "#text": "25:23,22:25,15:7"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs S Peckou",
+                "br": "",
+                "#text": "25:18,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "26:24,18:25,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs SURUS",
+                "br": "",
+                "#text": "22:25,25:20,15:10"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Bukvice vs Tralalalala",
+                "br": "",
+                "#text": "25:21,25:8"
+              },
+              "#text": "2:0"
+            }
+          }
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/dodame-pozdeji/",
+            "#text": "Dodame pozdeji"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Angry Birds",
+                "br": "",
+                "#text": "25:20,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Bukvice",
+                "br": "",
+                "#text": "25:13,23:25,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Frizzante",
+                "br": "",
+                "#text": "25:14,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Komiksáci",
+                "br": "",
+                "#text": "25:17,25:13"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Kuráž",
+                "br": "",
+                "#text": "21:25,25:22,15:12"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Nebreč",
+                "br": "",
+                "#text": "19:25,25:22,12:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Nelétaví ptáci",
+                "br": "",
+                "#text": "25:21,22:25,6:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Nepropadejte panice!",
+                "br": "",
+                "#text": "25:21,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Potenciál",
+                "br": "",
+                "#text": "25:17,26:28,16:14"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Přešlap rukou",
+                "br": "",
+                "#text": "25:19,25:16"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "18:25,21:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Dodame pozdeji vs Tralalalala",
+                "br": "",
+                "#text": "25:16,25:19"
+              },
+              "#text": "2:0"
+            }
+          }
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/frizzante/",
+            "#text": "Frizzante"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Angry Birds",
+                "br": "",
+                "#text": "12:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Banana Team",
+                "br": "",
+                "#text": "25:17,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Bukvice",
+                "br": "",
+                "#text": "22:25,25:21,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Dodame pozdeji",
+                "br": "",
+                "#text": "14:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Chulimanga",
+                "br": "",
+                "#text": "22:25,13:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Komiksáci",
+                "br": "",
+                "#text": "20:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Kuráž",
+                "br": "",
+                "#text": "25:23,16:25,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Nebreč",
+                "br": "",
+                "#text": "22:25,26:24,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Nelétaví ptáci",
+                "br": "",
+                "#text": "17:25,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Přešlap rukou",
+                "br": "",
+                "#text": "27:25,25:23"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "20:25,9:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Frizzante vs Suicide Squad",
+                "br": "",
+                "#text": "25:22,22:25,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/chill-crew/",
+            "#text": "chill crew"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "chill crew vs Bukvice",
+                "br": "",
+                "#text": "14:25,13:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "chill crew vs Chulimanga",
+                "br": "",
+                "#text": "15:25,17:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "chill crew vs Nelétaví ptáci",
+                "br": "",
+                "#text": "17:25,15:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "chill crew vs Potenciál",
+                "br": "",
+                "#text": "21:25,25:23,12:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "chill crew vs Suicide Squad",
+                "br": "",
+                "#text": "25:23,19:25,9:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "chill crew vs SURUS",
+                "br": "",
+                "#text": "25:20,25:27,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/chulimanga/",
+            "#text": "Chulimanga"
+          }
+        },
+        "td": [
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Amateri",
+                "br": "",
+                "#text": "19:25,25:18,13:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Angry Birds",
+                "br": "",
+                "#text": "25:14,25:16"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Bukvice",
+                "br": "",
+                "#text": "25:27,26:28"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Frizzante",
+                "br": "",
+                "#text": "25:22,25:13"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs chill crew",
+                "br": "",
+                "#text": "25:15,25:17"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Kladivouni",
+                "br": "",
+                "#text": "22:25,25:22,16:14"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Komiksáci",
+                "br": "",
+                "#text": "25:22,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Kuráž",
+                "br": "",
+                "#text": "20:25,20:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Nebreč",
+                "br": "",
+                "#text": "25:15,26:24"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs S Peckou",
+                "br": "",
+                "#text": "25:20,25:12"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "18:25,23:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Chulimanga vs SURUS",
+                "br": "",
+                "#text": "25:20,25:20"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/kladivouni/",
+            "#text": "Kladivouni"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Anonymní tučňáci",
+                "br": "",
+                "#text": "25:15,25:8"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Bukvice",
+                "br": "",
+                "#text": "25:23,22:25,12:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Chulimanga",
+                "br": "",
+                "#text": "25:22,22:25,14:16"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Medvědi",
+                "br": "",
+                "#text": "22:25,25:27"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Nebreč",
+                "br": "",
+                "#text": "16:25,25:19,8:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Nepropadejte panice!",
+                "br": "",
+                "#text": "25:20,25:21"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Potenciál",
+                "br": "",
+                "#text": "25:16,25:13"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Přejetý Žabičky",
+                "br": "",
+                "#text": "22:25,25:21,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Přešlap rukou",
+                "br": "",
+                "#text": "25:18,25:12"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs S Peckou",
+                "br": "",
+                "#text": "25:20,20:25,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs SURUS",
+                "br": "",
+                "#text": "25:21,22:25,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kladivouni vs Tralalalala",
+                "br": "",
+                "#text": "25:17,25:12"
+              },
+              "#text": "2:0"
+            }
+          }
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/komiksaci/",
+            "#text": "Komiksáci"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Angry Birds",
+                "br": "",
+                "#text": "22:25,25:19,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Anonymní tučňáci",
+                "br": "",
+                "#text": "25:15,25:15"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Banana Team",
+                "br": "",
+                "#text": "25:19,18:25,15:10"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Bukvice",
+                "br": "",
+                "#text": "25:12,20:25,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Dodame pozdeji",
+                "br": "",
+                "#text": "17:25,13:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Frizzante",
+                "br": "",
+                "#text": "25:20,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Chulimanga",
+                "br": "",
+                "#text": "22:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Křivé ruce",
+                "br": "",
+                "#text": "25:21,22:25,10:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Kuráž",
+                "br": "",
+                "#text": "22:25,21:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Potenciál",
+                "br": "",
+                "#text": "25:15,25:21"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs S Peckou",
+                "br": "",
+                "#text": "25:16,18:25,15:10"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Komiksáci vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "19:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/krive-ruce/",
+            "#text": "Křivé ruce"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Křivé ruce vs Anonymní tučňáci",
+                "br": "",
+                "#text": "25:11,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Křivé ruce vs Komiksáci",
+                "br": "",
+                "#text": "21:25,25:22,15:10"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Křivé ruce vs Kuráž",
+                "br": "",
+                "#text": "25:21,17:25,9:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Křivé ruce vs Medvědi",
+                "br": "",
+                "#text": "25:19,21:25,16:14"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Křivé ruce vs Nelétaví ptáci",
+                "br": "",
+                "#text": "27:25,15:25,15:4"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Křivé ruce vs Potenciál",
+                "br": "",
+                "#text": "25:18,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Křivé ruce vs Suicide Squad",
+                "br": "",
+                "#text": "25:22,19:25,13:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/kuraz/",
+            "#text": "Kuráž"
+          }
+        },
+        "td": [
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Amateri",
+                "br": "",
+                "#text": "25:22,25:18"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Angry Birds",
+                "br": "",
+                "#text": "25:17,25:20"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Bukvice",
+                "br": "",
+                "#text": "22:25,27:25,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Dodame pozdeji",
+                "br": "",
+                "#text": "25:21,22:25,12:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Frizzante",
+                "br": "",
+                "#text": "23:25,25:16,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Chulimanga",
+                "br": "",
+                "#text": "25:20,25:20"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Komiksáci",
+                "br": "",
+                "#text": "25:22,25:21"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Křivé ruce",
+                "br": "",
+                "#text": "21:25,25:17,15:9"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Nebreč",
+                "br": "",
+                "#text": "17:25,20:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Potenciál",
+                "br": "",
+                "#text": "25:14,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs S Peckou",
+                "br": "",
+                "#text": "25:23,22:25,15:12"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Kuráž vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "23:25,16:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/kuriatko/",
+            "#text": "Kuriatko"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/medvedi/",
+            "#text": "Medvědi"
+          }
+        },
+        "td": [
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Amateri",
+                "br": "",
+                "#text": "25:9,25:21"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Angry Birds",
+                "br": "",
+                "#text": "25:23,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Banana Team",
+                "br": "",
+                "#text": "25:21,25:15"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Bukvice",
+                "br": "",
+                "#text": "25:21,25:9"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Kladivouni",
+                "br": "",
+                "#text": "25:22,27:25"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Křivé ruce",
+                "br": "",
+                "#text": "19:25,25:21,14:16"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Nebreč",
+                "br": "",
+                "#text": "21:25,25:22,14:16"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Nelétaví ptáci",
+                "br": "",
+                "#text": "23:25,25:22,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Potenciál",
+                "br": "",
+                "#text": "25:15,25:17"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Přejetý Žabičky",
+                "br": "",
+                "#text": "25:19,25:11"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "16:25,25:19,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Medvědi vs Suicide Squad",
+                "br": "",
+                "#text": "17:25,20:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/nebrec/",
+            "#text": "Nebreč"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Dodame pozdeji",
+                "br": "",
+                "#text": "25:19,22:25,15:12"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Frizzante",
+                "br": "",
+                "#text": "25:22,24:26,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Chulimanga",
+                "br": "",
+                "#text": "15:25,24:26"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Kladivouni",
+                "br": "",
+                "#text": "25:16,19:25,15:8"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Kuráž",
+                "br": "",
+                "#text": "25:17,25:20"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Medvědi",
+                "br": "",
+                "#text": "25:21,22:25,16:14"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Nelétaví ptáci",
+                "br": "",
+                "#text": "22:25,23:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Nepropadejte panice!",
+                "br": "",
+                "#text": "25:20,25:20"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Přejetý Žabičky",
+                "br": "",
+                "#text": "25:18,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs S Peckou",
+                "br": "",
+                "#text": "25:13,25:17"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "25:19,28:30,7:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs Suicide Squad",
+                "br": "",
+                "#text": "31:29,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nebreč vs SURUS",
+                "br": "",
+                "#text": "25:23,25:15"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/neletavi-ptaci/",
+            "#text": "Nelétaví ptáci"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Anonymní tučňáci",
+                "br": "",
+                "#text": "25:15,25:20"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Banana Team",
+                "br": "",
+                "#text": "25:15,25:10"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Bukvice",
+                "br": "",
+                "#text": "25:12,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Dodame pozdeji",
+                "br": "",
+                "#text": "21:25,25:22,15:6"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Frizzante",
+                "br": "",
+                "#text": "25:17,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs chill crew",
+                "br": "",
+                "#text": "25:17,25:15"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Křivé ruce",
+                "br": "",
+                "#text": "25:27,25:15,4:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Medvědi",
+                "br": "",
+                "#text": "25:23,22:25,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Nebreč",
+                "br": "",
+                "#text": "25:22,25:23"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs S Peckou",
+                "br": "",
+                "#text": "25:17,25:15"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Suicide Squad",
+                "br": "",
+                "#text": "21:25,25:11,17:19"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nelétaví ptáci vs Tralalalala",
+                "br": "",
+                "#text": "25:12,25:14"
+              },
+              "#text": "2:0"
+            }
+          }
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/nepropadejte-panice/",
+            "#text": "Nepropadejte panice!"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nepropadejte panice! vs Angry Birds",
+                "br": "",
+                "#text": "25:13,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nepropadejte panice! vs Banana Team",
+                "br": "",
+                "#text": "21:25,25:17,10:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nepropadejte panice! vs Bukvice",
+                "br": "",
+                "#text": "25:17,22:25,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nepropadejte panice! vs Dodame pozdeji",
+                "br": "",
+                "#text": "21:25,18:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nepropadejte panice! vs Kladivouni",
+                "br": "",
+                "#text": "20:25,21:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Nepropadejte panice! vs Nebreč",
+                "br": "",
+                "#text": "20:25,20:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/potencial/",
+            "#text": "Potenciál"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Angry Birds",
+                "br": "",
+                "#text": "25:21,17:25,15:17"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Banana Team",
+                "br": "",
+                "#text": "25:19,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Bukvice",
+                "br": "",
+                "#text": "23:25,25:22,7:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Dodame pozdeji",
+                "br": "",
+                "#text": "17:25,28:26,14:16"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs chill crew",
+                "br": "",
+                "#text": "25:21,23:25,15:12"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Kladivouni",
+                "br": "",
+                "#text": "16:25,13:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Komiksáci",
+                "br": "",
+                "#text": "15:25,21:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Křivé ruce",
+                "br": "",
+                "#text": "18:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Kuráž",
+                "br": "",
+                "#text": "14:25,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Medvědi",
+                "br": "",
+                "#text": "15:25,17:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Přejetý Žabičky",
+                "br": "",
+                "#text": "27:25,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Přešlap rukou",
+                "br": "",
+                "#text": "25:20,26:28,15:8"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Potenciál vs Suicide Squad",
+                "br": "",
+                "#text": "17:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/prejety-zabicky/",
+            "#text": "Přejetý Žabičky"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přejetý Žabičky vs Banana Team",
+                "br": "",
+                "#text": "25:22,20:25,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přejetý Žabičky vs Kladivouni",
+                "br": "",
+                "#text": "25:22,21:25,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přejetý Žabičky vs Medvědi",
+                "br": "",
+                "#text": "19:25,11:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přejetý Žabičky vs Nebreč",
+                "br": "",
+                "#text": "18:25,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přejetý Žabičky vs Potenciál",
+                "br": "",
+                "#text": "25:27,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přejetý Žabičky vs Suicide Squad",
+                "br": "",
+                "#text": "25:22,21:25,6:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/preslap-rukou/",
+            "#text": "Přešlap rukou"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přešlap rukou vs Angry Birds",
+                "br": "",
+                "#text": "22:25,27:25,9:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přešlap rukou vs Dodame pozdeji",
+                "br": "",
+                "#text": "19:25,16:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přešlap rukou vs Frizzante",
+                "br": "",
+                "#text": "25:27,23:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přešlap rukou vs Kladivouni",
+                "br": "",
+                "#text": "18:25,12:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přešlap rukou vs Potenciál",
+                "br": "",
+                "#text": "20:25,28:26,8:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Přešlap rukou vs Suicide Squad",
+                "br": "",
+                "#text": "21:25,17:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/s-peckou/",
+            "#text": "S Peckou"
+          }
+        },
+        "td": [
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Amateri",
+                "br": "",
+                "#text": "25:14,25:17"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Angry Birds",
+                "br": "",
+                "#text": "18:25,26:24,19:17"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Anonymní tučňáci",
+                "br": "",
+                "#text": "22:25,25:14,15:10"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Banana Team",
+                "br": "",
+                "#text": "25:23,23:25,15:6"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Bukvice",
+                "br": "",
+                "#text": "18:25,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Chulimanga",
+                "br": "",
+                "#text": "20:25,12:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Kladivouni",
+                "br": "",
+                "#text": "20:25,25:20,11:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Komiksáci",
+                "br": "",
+                "#text": "16:25,25:18,10:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Kuráž",
+                "br": "",
+                "#text": "23:25,25:22,12:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Nebreč",
+                "br": "",
+                "#text": "13:25,17:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Nelétaví ptáci",
+                "br": "",
+                "#text": "17:25,15:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Suicide Squad",
+                "br": "",
+                "#text": "17:25,10:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "S Peckou vs Tralalalala",
+                "br": "",
+                "#text": "28:26,14:25,13:15"
+              },
+              "#text": "1:2"
+            }
+          }
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/skoro-matfyzaci/",
+            "#text": "Skoro Matfyzáci"
+          }
+        },
+        "td": [
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Amateri",
+                "br": "",
+                "#text": "20:25,25:22,7:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Anonymní tučňáci",
+                "br": "",
+                "#text": "25:17,25:13"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Banana Team",
+                "br": "",
+                "#text": "25:21,25:21"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Bukvice",
+                "br": "",
+                "#text": "24:26,25:18,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Dodame pozdeji",
+                "br": "",
+                "#text": "25:18,25:21"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Frizzante",
+                "br": "",
+                "#text": "25:20,25:9"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Chulimanga",
+                "br": "",
+                "#text": "25:18,25:23"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Komiksáci",
+                "br": "",
+                "#text": "25:19,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Kuráž",
+                "br": "",
+                "#text": "25:23,25:16"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Medvědi",
+                "br": "",
+                "#text": "25:16,19:25,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs Nebreč",
+                "br": "",
+                "#text": "19:25,30:28,15:7"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Skoro Matfyzáci vs SURUS",
+                "br": "",
+                "#text": "25:19,25:22"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/suicide-squad/",
+            "#text": "Suicide Squad"
+          }
+        },
+        "td": [
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Angry Birds",
+                "br": "",
+                "#text": "25:22,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Banana Team",
+                "br": "",
+                "#text": "25:19,25:15"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Frizzante",
+                "br": "",
+                "#text": "22:25,25:22,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs chill crew",
+                "br": "",
+                "#text": "23:25,25:19,15:9"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Křivé ruce",
+                "br": "",
+                "#text": "22:25,25:19,15:13"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Medvědi",
+                "br": "",
+                "#text": "25:17,25:20"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Nebreč",
+                "br": "",
+                "#text": "29:31,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Nelétaví ptáci",
+                "br": "",
+                "#text": "25:21,11:25,19:17"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Potenciál",
+                "br": "",
+                "#text": "25:17,25:19"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Přejetý Žabičky",
+                "br": "",
+                "#text": "22:25,25:21,15:6"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs Přešlap rukou",
+                "br": "",
+                "#text": "25:21,25:17"
+              },
+              "#text": "2:0"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Suicide Squad vs S Peckou",
+                "br": "",
+                "#text": "25:17,25:10"
+              },
+              "#text": "2:0"
+            }
+          },
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0",
+          "0:0"
+        ]
+      },
+      {
+        "@class": "even",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/jsb/",
+            "#text": "SURUS"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "SURUS vs Bukvice",
+                "br": "",
+                "#text": "25:22,20:25,10:15"
+              },
+              "#text": "1:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "SURUS vs chill crew",
+                "br": "",
+                "#text": "20:25,27:25,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "SURUS vs Chulimanga",
+                "br": "",
+                "#text": "20:25,20:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "SURUS vs Kladivouni",
+                "br": "",
+                "#text": "21:25,25:22,17:15"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "SURUS vs Nebreč",
+                "br": "",
+                "#text": "23:25,15:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "SURUS vs Skoro Matfyzáci",
+                "br": "",
+                "#text": "19:25,22:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          {
+            "@class": "cross"
+          },
+          "0:0"
+        ]
+      },
+      {
+        "@class": "odd",
+        "th": {
+          "a": {
+            "@href": "https://www.avlka.cz/init/pages/team/tralalalala/",
+            "#text": "Tralalalala"
+          }
+        },
+        "td": [
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Tralalalala vs Banana Team",
+                "br": "",
+                "#text": "11:25,25:18,15:11"
+              },
+              "#text": "2:1"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Tralalalala vs Bukvice",
+                "br": "",
+                "#text": "21:25,8:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Tralalalala vs Dodame pozdeji",
+                "br": "",
+                "#text": "16:25,19:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Tralalalala vs Kladivouni",
+                "br": "",
+                "#text": "17:25,12:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Tralalalala vs Nelétaví ptáci",
+                "br": "",
+                "#text": "12:25,14:25"
+              },
+              "#text": "0:2"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "span": {
+              "@class": "tdhover",
+              "div": {
+                "@class": "tooltip",
+                "span": "Tralalalala vs S Peckou",
+                "br": "",
+                "#text": "26:28,25:14,15:13"
+              },
+              "#text": "2:1"
+            }
+          },
+          "0:0",
+          "0:0",
+          "0:0",
+          {
+            "@class": "cross"
+          }
+        ]
+      }
+    ]
+  }
+}

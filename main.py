@@ -186,7 +186,7 @@ def calculate_points(all_data_compact_format: pd.DataFrame) -> pd.DataFrame:
 def convert_points_to_outcome(points: pd.DataFrame, teams_out: List[str]) -> pd.DataFrame:
     outcome = copy.deepcopy(points)
     teams_count = points.shape[0]
-    maximal_point_count = 3 * teams_count
+    maximal_point_count = 3 * (teams_count - 1)
     outcome['Percentage'] = 100 * outcome['Points'] / maximal_point_count
 
     # adding points for the teams that were not part of the analysis
